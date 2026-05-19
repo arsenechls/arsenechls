@@ -1,4 +1,3 @@
-# bio
 ```bash
 arsene@github:~$ whoami
 Arsène Chalus — Epitech Student (3rd year)
