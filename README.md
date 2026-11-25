@@ -1,6 +1,6 @@
 ```bash
 arsene@github:~$ whoami
-Arsène Chalus — Epitech Student (3rd year)
+Arsène Chalus — Student (3rd year)
 
 arsene@github:~$ cat ~/.bio
 Infosec enthusiast, practicing cybersecurity for ~7 years.
